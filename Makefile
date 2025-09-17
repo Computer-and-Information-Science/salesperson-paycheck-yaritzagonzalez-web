@@ -1,7 +1,1 @@
-all: a.out
-
-a.out:
-	g++ -std=c++11 main.cpp
-
-test: a.out
-	./a.out
+KathrynJaneway1525.00 3.25 12253.78 195.75
